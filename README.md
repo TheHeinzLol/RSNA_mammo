@@ -4,6 +4,7 @@ Done:
   - Windowing.
   - Converting dcm to png.
   - Resizing to 1024x768 WxH.
+
 To be done:
   - Write training and test loops for pytorch.
   - Write custom metrics formulae.
