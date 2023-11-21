@@ -7,6 +7,9 @@ Done:
   - Resizing to 1024x768 WxH.
 
 To be done:
+  - Separate data into train and test splits.
+  - Data augmentation.
+  - Create dataloaders for pytorch.
   - Write training and test loops for pytorch.
   - Write custom metrics formulae.
   - Use tensorboard to track performance.
