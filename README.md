@@ -16,3 +16,4 @@ To be done:
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
   - Training.
   - Inference.
+  - Visualize most important steps.
