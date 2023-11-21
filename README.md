@@ -6,7 +6,7 @@ Done:
   - Converting dcm to png.
   - Resizing to 1024x768 WxH.
 
-To be done:
+Not ordered list of things to be done:
   - Separate data into train and test splits.
   - Data augmentation.
   - Create dataloaders for pytorch.
@@ -16,4 +16,5 @@ To be done:
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
   - Training.
   - Inference.
+  - Add tests and clear descriptions to some functions.
   - Visualize most important steps.
