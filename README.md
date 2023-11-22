@@ -5,11 +5,12 @@ Done:
   - Windowing.
   - Converting dcm to png.
   - Resizing to 1024x768 WxH.
-
-Not ordered list of things to be done:
-  - Identify and delete corrupted data.
   - Separate data into train and test splits.
   - Data augmentation.
+
+Not ordered list of things to be done:
+  - Add multiprocessing.
+  - Identify and delete corrupted data.
   - Create dataloaders for pytorch.
   - Write training and test loops for pytorch.
   - Write custom metrics formulae.
