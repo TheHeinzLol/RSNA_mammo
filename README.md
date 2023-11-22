@@ -7,6 +7,7 @@ Done:
   - Resizing to 1024x768 WxH.
 
 Not ordered list of things to be done:
+  - Identify and delete corrupted data.
   - Separate data into train and test splits.
   - Data augmentation.
   - Create dataloaders for pytorch.
