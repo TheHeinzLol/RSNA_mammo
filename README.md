@@ -9,6 +9,7 @@ Done:
   - Data augmentation.
 
 Not ordered list of things to be done:
+  - ! Make windowing work for JPEG2000 images !
   - Add multiprocessing.
   - Identify and delete corrupted data.
   - Create dataloaders for pytorch.
