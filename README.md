@@ -10,11 +10,11 @@ Done:
   - Add multiprocessing.
   - Identify and delete corrupted data.
   - Create dataloaders for pytorch.
+  - Write custom metrics formulae.
 
 Not ordered list of things to be done:
   - Make windowing work for JPEG2000 images
   - Write training and test loops for pytorch.
-  - Write custom metrics formulae.
   - Use tensorboard to track performance.
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
   - Training.
