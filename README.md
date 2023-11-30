@@ -14,10 +14,9 @@ Done:
   - Write training and test loops for pytorch.
   - Use tensorboard to track performance.
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
+  - Load images to GoogleDrive to train in Colab.
 
 Not ordered list of things to be done:
-  - Load images to GoogleDrive to train in Colab.
-  - Make windowing work for JPEG2000 images
   - Training.
   - Inference.
   - Add tests and clear descriptions to some functions.
