@@ -15,7 +15,9 @@ Done:
   - Use tensorboard to track performance.
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
   - Load images to GoogleDrive to train in Colab.
-
+  - Reduced data amount for Google Colab.
+  - Wrote custom Dataset function.
+    
 Not ordered list of things to be done:
   - Training.
   - Inference.
