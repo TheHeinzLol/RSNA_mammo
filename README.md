@@ -19,6 +19,7 @@ Done:
   - Wrote custom Dataset class.
     
 Not ordered list of things to be done:
+  - Implement scheduler for learning rate to speed up trainig.
   - Training.
   - Inference.
   - Add tests and clear descriptions to some functions:
