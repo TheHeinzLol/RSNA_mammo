@@ -21,5 +21,7 @@ Done:
 Not ordered list of things to be done:
   - Training.
   - Inference.
-  - Add tests and clear descriptions to some functions.
+  - Add tests and clear descriptions to some functions:
+      - Asserts for custom Dataset class.
+      - Metrics functions.
   - Visualize most important steps.
