@@ -14,7 +14,8 @@ Done:
   - Write training and test loops for pytorch.
   - Use tensorboard to track performance.
   - Apply transfer learning or come up with own model architecture. Hardware is a limiting factor, so I am inclined towards transfer learning.
-  - Load images to GoogleDrive to train in Colab.
+  - Deprecated: Load images to GoogleDrive to train in Colab.
+  - Load data to Kaggle ant train models there.
   - Reduced data amount for Google Colab.
   - Wrote custom Dataset class.
     
