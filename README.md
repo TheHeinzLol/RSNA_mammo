@@ -1,5 +1,6 @@
 # RSNA_mammo
 Computer vision project for detecting cancer on breast CT scans.
+For code and presentation proceed to: https://github.com/TheHeinzLol/RSNA_mammo/blob/main/image_preparation.ipynb
 
 Done:
   - Windowing.
@@ -18,12 +19,10 @@ Done:
   - Load data to Kaggle ant train models there.
   - Reduced data amount for Google Colab.
   - Wrote custom Dataset class.
-    
+  - Visualize most important steps.
+
 Not ordered list of things to be done:
-  - Implement scheduler for learning rate to speed up trainig.
   - Training.
   - Inference.
-  - Add tests and clear descriptions to some functions:
-      - Asserts for custom Dataset class.
-      - Metrics functions.
-  - Visualize most important steps.
+
+
