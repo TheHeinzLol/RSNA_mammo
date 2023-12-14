@@ -1,6 +1,6 @@
 # RSNA_mammo
 Computer vision project for detecting cancer on breast CT scans.
-For code and presentation proceed to: https://github.com/TheHeinzLol/RSNA_mammo/blob/main/image_preparation.ipynb
+For code and presentation proceed to: https://github.com/TheHeinzLol/RSNA_mammo/blob/main/RSNA_cancer_prediction.ipynb
 
 Done:
   - Windowing.
